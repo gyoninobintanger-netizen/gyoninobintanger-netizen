@@ -1,4 +1,8 @@
-# Hi, I'm GYERLANGST 👋 
+<h1 align="center">
+  Hi, I'm GYERLANGST 👋
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhsaHhldjkxYXl0cTRqYnd4cnplNmtqamxjYW1jYmF1a3dtMWYzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" alt="Coding Fox" width="200" style="vertical-align: middle; margin-left: 150px;" />
+</h1>
+ 
 <p align="center">
   <img src="img/github-header-banner.png" alt="Header Banner" width="1030">
 </p>
